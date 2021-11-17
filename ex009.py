@@ -1,4 +1,4 @@
-print('@@@@@ TABUADA 1.0v @@@@@')
+print('@@@@@@ TABUADA 1.0v @@@@@@')
 n = int(input('Digite um número: '))
 print('-=' * 10)
 print('{} x {:2} = {}'.format(n, 1, n * 1))
