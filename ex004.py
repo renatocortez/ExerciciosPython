@@ -1,6 +1,3 @@
-'''FAÇA UM PROGRAMA QUE LEIA ALGO PELO TECLADO E
-MOSTRE NA TELA SEU TIPO PRIMITIVO E TODAS AS 
-INFORMAÇÕES POSSÍVEIS SOBRE ELE'''
 
 n1 = input('Digite algo: ')
 print('O tipo primitivo desse valor é', type(n1))
