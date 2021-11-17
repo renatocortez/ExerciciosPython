@@ -1,4 +1,3 @@
-
 n1 = input('Digite algo: ')
 print('O tipo primitivo desse valor é', type(n1))
 print('Só tem espaços? ', n1.isspace())
