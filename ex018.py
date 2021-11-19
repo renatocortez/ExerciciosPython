@@ -1,5 +1,3 @@
-'''CÁLCULO DO SENO, COSSENO E TANGENTE'''
-
 from math import sin, cos, tan, radians
 
 valor = float(input('Digite um valor de ângulo qualquer: '))
