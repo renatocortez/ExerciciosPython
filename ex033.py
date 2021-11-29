@@ -1,5 +1,3 @@
-'''LEIA TRÊS NÚMEROS E MOSTRE QUAL É O MAIOR E O MENOR.'''
-
 n1 = int(input('1º número: '))
 n2 = int(input('2º número: '))
 n3 = int(input('3º número: '))
