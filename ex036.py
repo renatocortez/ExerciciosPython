@@ -1,10 +1,3 @@
-'''ESCREVA UM PROGRAMA PARA APROVAR UM EMPRÉSTIMO BANCÁRIO PARA COMPRAR UMA CASA.O PROGRAMA VAI PERGUNTAR:
-1-O VALOR DA CASA
-2-O SALÁRIO DO COMPRADOR
-3-EM QUANTOS ANOS ELE VAI PAGAR
-
-CALCULE O VALOR DA PRESTAÇÃO MENSAL, SABENDO QUE ELA NÃO PODE EXCEDER 30% DO SALÁRIO OU ENTÃO O EMPRÉSTIMO SERÁ NEGADO'''
-
 casa = float(input('Valor do ímovel que deseja financiar:R$ '))
 salario = float(input('Salário do responsável pelo financiamento:R$ '))
 anos = int(input('Quantidade de anos que deseja para pagar: '))
