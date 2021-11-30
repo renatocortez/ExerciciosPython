@@ -1,6 +1,3 @@
-'''DESENVOLVA UM PROGRAMA QUE LEIA O COMPRIMENTO DE 3 RETAS E DIGA SE ELAS PODEM OU NÃO FORMAR UM TRIÂNGULO.
-'''
-
 r1 = float(input('1ª reta: '))
 r2 = float(input('2ª reta: '))
 r3 = float(input('3ª reta: '))
