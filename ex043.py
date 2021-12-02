@@ -1,10 +1,3 @@
-'''LER O PESO E ALTURA E CALCULAR O IMC
-1-ABAIXO DE 18.5 = ABAIXO DO PESO
-2-ENTRE 18.5 E 25 = PESO IDEAL
-3-26 ATÉ 30 = SOBREPESO
-4-30 ATÉ 40 = OBESIDADE
-5 - ACIMA DE 40 = OBESIDADE MÓRBIDA'''
-
 peso = float(input('Digite seu peso: '))
 altura = float(input('Digite sua altura: '))
 imc = peso / (altura ** 2)
