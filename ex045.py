@@ -1,5 +1,3 @@
-'''CRIE UM PROGRAMA QUE FAÇA O COMPUTADOR JOGAR JOKENPÔ'''
-
 from random import randint
 from time import sleep
 itens =('Pedra', 'Papel', 'Tesoura')
