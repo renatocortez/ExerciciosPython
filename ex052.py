@@ -1,5 +1,3 @@
-'''FAÇA UM PROGRAMA QUE LEIA UM NÚMERO INTEIRO E DIGA SE ELE É PRIMO'''
-
 total = 0
 n = int(input('Digite um número para saber se ele é primo: '))
 for c in range(1, n + 1):
