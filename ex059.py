@@ -1,11 +1,3 @@
-'''CRIE UM PROGRAMA QUE LEIA DOIS VALORES E MOSTRE UM MENU NA TELA:
-1 - SOMAR
-2 - MULTIPLICAR
-3 - MAIOR
-4 - NOVOS NÚMEROS
-5 - SAIR DO PROGRAMA
-O PROGRAMA DEVERÁ REALIZAR AS OPERAÇÕES ACIMA'''
-
 from time import sleep
 n1 = int(input('1º valor: '))
 n2 = int(input('2º valor: '))
