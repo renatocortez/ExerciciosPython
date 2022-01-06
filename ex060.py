@@ -1,5 +1,3 @@
-'''FAÇA UM PROGRAMA QUE LEIA UM NÚMERO QUALQUER E MOSTRE O SEU FATORIAL'''
-
 n = int(input('Digite um número para saber o seu fatorial: '))
 c = n
 f = 1
