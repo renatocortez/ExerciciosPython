@@ -1,9 +1,3 @@
-'''FAÇA UM PROGRAMA QUE MOSTRE A TABUADA
-DE VÁRIOS NÚMEROS, UM DE CADA VEZ, PARA CADA
-VALOR DIGITADO PELO USUÁRIO. O PROGRAMA SERÁ
-INTERROMPIDO QUANDO O NÚMERO SOLICITADO FOR
-NEGATIVO.'''
-
 print('& & & Tabuada 3.0v & & &')
 while True:
     n = int(input('Digite o valor da tabuada desejada: '))
