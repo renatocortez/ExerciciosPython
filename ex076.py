@@ -1,7 +1,3 @@
-'''Crie um programa que tenha uma tupla única com
-nomes de produtos e seus respectivos preços, na sequência.
-No final, mostre uma listagem de preços, organizando os dados em forma tabular.'''
-
 listagem = ('Arroz', 10, 'Queijo', 14, 'Vinho', 30,
              'Manteiga', 10, 'Cogumelos', 15)
 
