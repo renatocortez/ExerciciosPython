@@ -1,11 +1,3 @@
-'''CRIE UMA TUPLA PREENCHIDA COM OS 20 PRIMEIROS
-COLOCADOS DO CAMPEONATO BRASILEIRO, NA ORDEM
-DE COLOCAÇÃO E MOSTRE:
-1-APENAS OS 5 PRIMEIROS COLOCADOS
-2-OS ÚLTIMOS 4 COLOCADOS
-3-UMA LISTA COM OS TIMES EM ORDEM ALFABÉTICA
-4-EM QUE POSIÇÃO ESTÁ O SANTOS'''
-
 times = ('Fortaleza', 'Atlético-PR', 'Flamengo', 'Atlético-GO', 'Atlético-MG',
          'Bragantino', 'Fluminense', 'Bahia', 'Palmeiras', 'Corinthians', 'Ceará', 'Santos', 'Internacional',
          'Juventude','Cuiabá', 'Sport', 'São Paulo', 'Chapecoense', 'Grêmio', 'América-MG')
