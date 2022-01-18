@@ -1,9 +1,3 @@
-'''CRIE UM PROGRAMA QUE VAI GERAR CINCO
-NÚMEROS ALEATÓRIOS E COLOCA EM UM TUPLA
-DEPOIS DISSO, MOSTRE A LISTAGEM DE NÚMEROS
-GERADOS E TAMBÉM INDIQUE O MENOR E O MAIOR VALOR QUE
-ESTÃO NA TUPLA'''
-
 from random import randint
 numeros = (randint(1, 10), randint(1,10), randint(1, 10),
         randint(1, 10), randint(1, 10))
