@@ -25,4 +25,4 @@ for c in range(0, 3):
         maior = matriz[1][c]
     elif matriz[1][c] > maior:
         maior = matriz[1][c]
-print(f'O maior valor da segunda linha é {maior}')
+print(f'O maior valor da segunda linha é = {maior}')
