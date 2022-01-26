@@ -1,8 +1,3 @@
-'''Aprimore o desafio anterior, mostrando no final:
-A) A soma de todos os valores pares digitados.
-B) A soma dos valores da terceira coluna. OBS: LINHA VARIÁVEL E COLUNA FIXA
-C) O maior valor da segunda linha. OBS: LINHA FIXA E COLUNA VARIÁVEL '''
-
 matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 
 spar = maior = scol = 0
